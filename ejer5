@@ -8,7 +8,7 @@ $nombre = readline();
 echo "Ingrese contraseña";
 $contraseña = readline();
 
-if ($nombre == "laura" && $contraseña = 1234) {
+if ($nombre == "jhon" && $contraseña = 666) {
     echo "Ingrese cantidad de empleados \n";
     $cantidad_empleados = intval(readline());
     $empleados = []; 
